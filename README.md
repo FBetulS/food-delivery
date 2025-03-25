@@ -2,7 +2,7 @@
 
 ## 🔗 Kaynaklar
 - Veri Seti: [Food Delivery Time Prediction Dataset](https://statso.io/food-delivery-time-prediction-case-study/)
-- Hugging Face Uygulaması: [Food Delivery Time Prediction Space](https://huggingface.co/spaces/btulftma/fooddelivery) (sorun yaşadım.)
+- Hugging: [Food Delivery Time Prediction Space](https://huggingface.co/spaces/btulftma/fooddelivery) (sorun yaşadım.)
 
 ## 📖 Proje Özeti
 Yemek teslim süresi tahmini, gıda hizmetleri sektöründe müşteri memnuniyetini artırmak için kritik bir görevdir. Bu projede, restoran ile teslimat noktası arasındaki mesafeyi ve geçmiş teslimat sürelerini kullanarak, gerçek zamanlı teslimat sürelerini tahmin etmeyi amaçlıyoruz.
